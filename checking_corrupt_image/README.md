@@ -1,5 +1,5 @@
 #Idea
-The idea behind creating this application is to check an image contains an evil script in it. The images could be on your local computer or your server.
+The idea behind creating this application is to check an image contains an evil script in it. The images could be on your local computer or your server and it could be a back door to your system.
 
 #Dependency
 This tools using Image Magic to identify the image. So, you need Image Magic installed o your machine.
