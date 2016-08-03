@@ -11,7 +11,7 @@ bash checking_corrupt_image/main.sh "/Folder/to/check"
 
 You can use this tool like this;
 ```
-Nitzas-MacBook-Pro:small_tools nitzaalfinas$ bash checking_corrupt_image/main.sh "/Users/nitzaalfinas/Downloads/*.jpg"
+Nitzas-MacBook-Pro:small_tools nitzaalfinas$ bash checking_corrupt_image/main.sh "/Users/nitzaalfinas/Downloads"
 /Users/nitzaalfinas/Downloads/An5l9p-CG7QBuc-CcyXdPzp4asBZ6yK3jnIxOgXGXKF_.jpg JPEG 1600x1200 1600x1200+0+0 8-bit sRGB 500KB 0.000u 0:00.000
 OK
 
