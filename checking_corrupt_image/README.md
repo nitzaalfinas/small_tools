@@ -1,4 +1,13 @@
+#Idea
 The idea behind creating this application is to check an image contains an evil script in it. The images could be on your local computer or your server.
+
+#Dependency
+This tools using Image Magic to identify the image. So, you need Image Magic installed o your machine.
+
+#Command
+```
+bash checking_corrupt_image/main.sh "/Folder/to/check"
+```
 
 You can use this tool like this;
 ```
@@ -13,3 +22,5 @@ identify: Not a JPEG file: starts with 0x74 0x68 `/Users/nitzaalfinas/Downloads/
 Remove /Users/nitzaalfinas/Downloads/corrupt.php;.jpg 
 
 Nitzas-MacBook-Pro:small_tools nitzaalfinas$```
+
+
